@@ -23,8 +23,6 @@ arr.map((item)=>{
 });
 
     
-    
-    
     //object
     const person = {
         firstName:"John",
